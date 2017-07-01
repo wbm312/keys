@@ -1,0 +1,11 @@
+(module LOGO (layer B.Mask)
+  (at 0 0)
+ (fp_text reference "G***" (at 0 0) (layer B.Mask) hide
+  (effects (font (thickness 0.3)))
+  )
+  (fp_text value "LOGO" (at 0.75 0) (layer B.Mask) hide
+  (effects (font (thickness 0.3)))
+  )
+  (fp_poly (pts (xy 0.190500 1.968500) (xy -0.190500 1.968500) (xy -0.190500 -1.968500) (xy 0.190500 -1.968500) (xy 0.190500 1.968500) )(layer B.Mask) (width  0.010000)
+  )
+)
