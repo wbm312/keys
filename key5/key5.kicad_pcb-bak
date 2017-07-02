@@ -4404,7 +4404,7 @@
   )
 
   (module lib5:hole (layer F.Cu) (tedit 55A2CCE8) (tstamp 591CF85C)
-    (at 163.63 39.96)
+    (at 163.46 39.78)
     (fp_text reference hole_l (at -0.78 1.33) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )

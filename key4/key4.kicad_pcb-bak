@@ -2885,4 +2885,24 @@
   (gr_line (start 115.43 75.75) (end 109.34 61.01) (angle 90) (layer Edge.Cuts) (width 0.15))
   (gr_line (start 126.38 80.52) (end 115.43 75.75) (angle 90) (layer Edge.Cuts) (width 0.15))
 
+  (zone (net 0) (net_name "") (layer F.Cu) (tstamp 591E89B3) (hatch edge 0.508)
+    (connect_pads (clearance 0.508))
+    (min_thickness 0.254)
+    (fill (arc_segments 16) (thermal_gap 0.508) (thermal_bridge_width 0.508))
+    (polygon
+      (pts
+        (xy 102.49 37.89) (xy 153.16 38.12) (xy 152.47 151.1) (xy 110.25 150.65) (xy 102.49 38.35)
+      )
+    )
+  )
+  (zone (net 0) (net_name "") (layer B.Cu) (tstamp 591E89C6) (hatch edge 0.508)
+    (connect_pads (clearance 0.508))
+    (min_thickness 0.254)
+    (fill (arc_segments 16) (thermal_gap 0.508) (thermal_bridge_width 0.508))
+    (polygon
+      (pts
+        (xy 102.94 38.58) (xy 152.7 38.58) (xy 151.79 151.1) (xy 110.48 150.42) (xy 103.17 38.58)
+      )
+    )
+  )
 )
