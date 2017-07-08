@@ -3,7 +3,7 @@
   (general
     (links 0)
     (no_connects 0)
-    (area 109.264999 40.264999 150.575001 148.085001)
+    (area 102.49 37.89 153.160001 151.100001)
     (thickness 1.6)
     (drawings 64)
     (tracks 0)
@@ -64,8 +64,8 @@
     (aux_axis_origin 0 0)
     (visible_elements FFFFFF7F)
     (pcbplotparams
-      (layerselection 0x00030_80000001)
-      (usegerberextensions false)
+      (layerselection 0x010f0_80000001)
+      (usegerberextensions true)
       (excludeedgelayer true)
       (linewidth 0.100000)
       (plotframeref false)
@@ -85,9 +85,9 @@
       (subtractmaskfromsilk false)
       (outputformat 1)
       (mirror false)
-      (drillshape 1)
+      (drillshape 0)
       (scaleselection 1)
-      (outputdirectory ""))
+      (outputdirectory /Users/wmerrill/Desktop/GIT/keys/keys/key4/gerbers/))
   )
 
   (net 0 "")
